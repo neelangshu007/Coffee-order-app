@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>>
+    <string name="name">नाम</string>
+    <string name="order">" गण"</string>
+    <string name="total_0_nthank_you">कुल: ₹ 0\nधन्यवाद</string>
+    <string name="order_summary">" गण सारांश"</string>
+    <string name="plus">+</string>
+    <string name="number_of_coffeeCup">1</string>
+    <string name="minus">-</string>
+    <string name="quantity">" मात्रा"</string>
+    <string name="chocolate">" चॉकलेट"</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="problem">समस्या उत्पन्न हुई</string>
+    <string name="order_summary_name">नाम: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_whipped_cream">\nफेटी हुई मलाई: <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="order_summary_chocolate">\nचॉकलेट: <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_quantity">\nमात्रा: <xliff:g id="numberOfCoffees " example="2">%d</xliff:g></string>
+    <string name="order_summary_price">\nकुल: ₹  <xliff:g id="TotalPrice" example="$10">%d</xliff:g></string>
+    <string name="thank_you">\nधन्यवाद</string>
+    <string name="order_summary_email_subject">कॉफी ऑर्डर सारांश</string>
+    <string name="not_more_100">आपके पास 100 से अधिक कॉफ़ी नहीं हो सकती हैं</string>
+    <string name="not_less_1">" आपके पास 1 से कम कॉफ़ी नहीं हो सकती है"</string>
+</resources>
